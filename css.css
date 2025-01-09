@@ -1,0 +1,21 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+}
+nav
+{
+    height: 70px;
+    width: 100%;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+}
+nav a
+{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+    line-height: 50px;
+}
